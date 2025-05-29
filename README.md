@@ -9,7 +9,8 @@
 ### 사용기술<br/>
 UI 디자인 : 피그마<br/>
 프론트 틀 제작 : v0.dev AI<br/>
-프론트 : next.js 기반, 오류 수정 및 기능 추가
+프론트 : next.js 기반, 오류 수정 및 기능 추가<br/>
+[설명 ppt](https://docs.google.com/presentation/d/1yXqNrC7QojD-T_qP5JGk5YUAPvapolmq/edit?usp=sharing&ouid=114147704671102694484&rtpof=true&sd=true)
 <br/><br/>
 
 ## UI
